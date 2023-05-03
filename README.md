@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa200\partightenfactor0
+
+\f0\b\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Beach Replenishment
+\f1\b0 : the placement of fill sand on a beach to restore its elevation, seaward extent, and form, and to provide added protection from future erosion-producing events (e.g., intense storms), is a common and often preferred soft-engineering response to the eroding ocean beach. In places such as in the State of North Carolina, where regulations prohibit hard structures (e.g., seawalls, bulkheads, sandbags) for shoreline protection, it is one of the few mitigation options that remain for communities in response to chronic beach erosion. For others, there is ample evidence that hard-structure approaches suffer high failure rates and in many cases cause more damage than had no action been taken at all, leaving replenishment as one of the very few viable options.\cb1 \
+\cb3 A reason commonly cited in favor of replenishment over other solutions has to do with the stated short-term, low-impact habitat displacements on the restored beach. For some time period, however, the post-replenishment restoration beach is transformed from a congenial habitat into an intensely altered area ill-suited for the survival of most, if not all, indigenous flora and fauna. Beach replenishment places a thick (1 - 3 m) layer of sand on the beach, burying existing invertebrate populations, resulting in temporary local extinctions of indigenous species, most of which cannot withstand rapid, deep burial. The foreign sourced sand used as fill material also transiently alters the morphology of the surf zone and subaerial beach, and may modify the character of the sand as seen through changes in the all-important grain-size distribution and mineralogical composition. The replenished beach may additionally offer a hostile environment for species in nearby unaffected areas that might infiltrate and attempt to repopulate the impacted zone in the weeks and months that follow. Re-population times can vary considerably. Further, species composition in and on the replenished beach can differ from that seen prior to replenishment as more opportunistic and adaptable species recover and redistribute more quickly. In addition, delayed recovery, along with changes in invertebrate species populations pre and post replenishment can have effects that can reverberate up the trophic hierarchy to affect larger species (e.g., shorebirds, crabs, fish) that rely on these invertebrate populations as a food source.\cb1 \
+\cb3 Numerous studies dating back to the early 1970s have looked at biotic impacts tied to beach restoration. Most of these studies are, however, restricted in duration from several days up to one to two years, post-replenishment. Studies looking at impacts and recovery beyond this short-term recovery are, on the other hand, uncommon.\cb1 \
+\pard\pardeftab720\sa200\partightenfactor0
+
+\fs36 \cf2 \cb3 Goals and Objectives:\cb1 \
+\pard\pardeftab720\sa200\partightenfactor0
+
+\fs28 \cf2 \cb3 The overarching 
+\f0\b goal of this project
+\f1\b0  is to evaluate \'93longer-term\'94 impacts on beach sediment character and essential habitat associated with beach replenishment. Additionally, it provides an opportunity to evaluate these long-term impacts at a location that is relatively isolated, and removed from human-habitation and use: the U.S. Fish and Wildlife Service's Pea Island National Wildlife Refuge (PINWR, located on North Carolina's Outer Banks. We have proposed a comprehensive study--the study described in this repository--using a small replenishment project (1.6 million cubic yards of sand) conducted inside the Pea Island Refuge during the summer of 2014 to evaluate short and long-term changes in biological abundance and diversity along the impacted beach.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 #### **Pea Island National Wildlife Refuge** The Pea Island National Wildlife Refuge consists of some 4,900 acres of upland, marshes, and beaches along Hatteras Island on North Carolina's Outer Banks. The 13 mile-long refuge is bounded on the north by Oregon Inlet, and to the south by the Village of Rodanthe. Winter storms are the principal driver of change here, with tropical cyclones playing a subordinate, but nonetheless significant (albeit aperiodic) role. Humans are also, and in increasing frequency, agents of change across much of the Outer Banks, though protections established as part of the U.S. Fish and Wildlife Service (USFWS) mandate and the presence of the wildlife refuge have curtailed anthropogenic impacts along Pea Island.}
